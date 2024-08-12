@@ -47,7 +47,7 @@
 
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuanJo5433&count_private=true&show_icons=true&theme=react)](https://github.com/JuanJo5433/github-readme-stats)
+![JuanJo5433's Stats](https://github-readme-stats.vercel.app/api?username=JuanJo5433&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
 
 <!--profile visit count-->
 <div align="center">
