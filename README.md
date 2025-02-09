@@ -46,14 +46,24 @@
 <a href="https://www.linkedin.com/in/juan-jose-giraldo-6a199520a/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
 
 </p>
+<br clear="both">
 
-![JuanJo5433's Stats](https://github-readme-stats.vercel.app/api?username=JuanJo5433&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+<img src="https://raw.githubusercontent.com/JuanJo5433/JuanJo5433/output/snake.svg" alt="Snake animation" />
 
-<!--profile visit count-->
+###
+
 <div align="center">
-  
-[![](https://visitcount.itsvg.in/api?id=JuanJo5433&label=Profile%20Views&color=0&icon=3&pretty=true)](https://visitcount.itsvg.in)  
+  <img src="https://profile-counter.glitch.me/JuanJo5433/count.svg?"  />
 </div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JuanJo5433&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanJo5433&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
 
 
 <!--horizontal divider(gradiant)-->
