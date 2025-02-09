@@ -18,8 +18,8 @@
 <!-- Introducción personalizada -->
 <p align="center" style="font-size: 1.2em; line-height: 1.6;">
   Welcome to my little corner of GitHub!<br>
-  I'm a passionate Full-Stack Developer who loves transforming ideas into reality using <strong>React, React Native, Node.js & MongoDB</strong>.<br>
-  Currently, I’m growing and creating magic at <strong>Globant</strong>.<br>
+  I'm a passionate Full-Stack Developer who loves transforming ideas into reality using <strong>React, NextJs, Node.js & MongoDB</strong>.<br>
+  <br>
   When I'm not coding, you'll probably find me exploring new tech, gaming, or enjoying a great cup of coffee. ☕
 </p>
 
