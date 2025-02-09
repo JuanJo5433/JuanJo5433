@@ -5,7 +5,7 @@
 
 <!-- Banner adicional -->
 <p align="center">
-![Header](./header-banner.png)
+  <img src="./header-banner.png" alt="Profile Banner" style="width:100%; max-width:1200px;">
 
 </p>
 
