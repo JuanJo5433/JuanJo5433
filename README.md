@@ -26,7 +26,12 @@
   </ul>
 </div>
 <!--tech stack icons-->
-![JuanJoDev's Stats](https://github-readme-stats.vercel.app/api?username=JuanJoDev&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,php,discord,docker,mongodb,mysql,netlify,vite,vscode,postman,tailwind,bootstrap" />
+  </a>
+</p>
+
 
 <!-- Connect with me -->
 <!--h2 without bottom border-->
