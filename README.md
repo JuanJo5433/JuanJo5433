@@ -20,7 +20,7 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=JuanJo5433&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
@@ -67,9 +67,9 @@ Currently working with:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JuanJo5433&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJo5433&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
 
 </div>
 
@@ -79,7 +79,7 @@ Currently working with:
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=JuanJo5433&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -89,7 +89,7 @@ Currently working with:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=JuanJo5433&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -99,7 +99,7 @@ Currently working with:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=JuanJo5433&theme=tokyonight&no-frame=true&row=2&column=4"/>
 
 </div>
 
@@ -109,7 +109,7 @@ Currently working with:
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=tokyonight"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JuanJo5433&theme=tokyonight"/>
 
 </div>
 
@@ -119,7 +119,7 @@ Currently working with:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/JuanJo5433/JuanJo5433/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
@@ -133,7 +133,7 @@ Currently working with:
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/JuanJo5433">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
