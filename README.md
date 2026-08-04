@@ -1,94 +1,84 @@
-<!-- Banner superior -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Banner Superior" />
-</p>
+# 👋 Hi, I'm Juan José Giraldo
 
-<!-- Banner adicional -->
-<p align="center">
-  <img src="./header-banner.png" alt="Profile Banner" style="width:100%; max-width:1200px;">
+💻 Full Stack Developer from Colombia 🇨🇴  
+🚀 Passionate about building scalable web applications and SaaS products.  
+🌱 Currently working with **Next.js, React, TypeScript, Node.js, Prisma & PostgreSQL**.
 
-</p>
+---
 
-
-<!-- Título con degradado y estilo personalizado -->
-<h1 align="center" style="font-family: 'Comic Sans MS', cursive, sans-serif; background: linear-gradient(45deg, #6a11cb, #2575fc); -webkit-background-clip: text; color: transparent;">
-  Hi, I'm JuanJo5433 👋
-</h1>
-
-<!-- Introducción personalizada -->
-<p align="center" style="font-size: 1.2em; line-height: 1.6;">
-  Welcome to my little corner of GitHub!<br>
-  I'm a passionate Full-Stack Developer who loves transforming ideas into reality using <strong>React, NextJs, Node.js & MongoDB</strong>.<br>
-  <br>
-  When I'm not coding, you'll probably find me exploring new tech, gaming, or enjoying a great cup of coffee. ☕
-</p>
-
-
-<!-- Cita personal -->
-<p align="center">
-  <em>"Coding is not just a skill, it's an art. I love turning ideas into reality."</em>
-</p>
-
-<!-- Información de contacto con logos -->
-<p align="center">
-  <a href="mailto:juanjosegiraldo1001@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/juan-jose-giraldo-6a199520a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<hr />
-
-## 🚀 Technologies & Tools
+## 🚀 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,html,css,js,react,ts,nodejs,express,mongodb,mysql,docker,postman,tailwind,bootstrap,vscode,vite,figma,netlify,linux" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,php,laravel,git,github,vscode,figma,docker,linux&perline=8" />
 </p>
 
-<hr />
+---
 
 ## 💬 About Me
 
-<p align="center">
-  I'm a creative problem solver with a knack for designing seamless digital experiences. <br>
-  My journey in development is fueled by curiosity and a constant desire to learn something new every day.
-</p>
+- 🔭 Building **DevsWorld** and **Kallejeros**
+- 🌱 Always learning new technologies
+- ⚡ Passionate about UI/UX and scalable architectures
+- 💼 Full Stack Developer
+- 📍 Pereira, Colombia
 
-<hr />
+---
 
-## 🔥 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JuanJo5433&theme=nightowl&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
+## 📈 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JuanJo5433&theme=nightowl&hide_border=true" alt="GitHub Streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+---
+
+## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JuanJo5433&theme=nightowl&show_icons=true&hide_border=true&layout=compact" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true" />
 </p>
 
-<hr />
+---
 
-## 🐍 GitHub Contribution Snake
+## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/JuanJo5433/JuanJo5433/output/snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4" />
 </p>
 
-<hr />
+---
 
-## 📊 Profile Views
+## 📊 Contribution Graph
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/JuanJo5433/count.svg?" alt="Profile Counter" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=tokyo-night&hide_border=true" />
 </p>
 
-<!-- Banner inferior -->
+---
+
+## 🐍 Contribution Snake
+
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Footer Banner" />
+  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
 </p>
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="https://github.com/TU_USUARIO">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="https://linkedin.com/in/TU_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://www.devsworld.co">
+    <img src="https://skillicons.dev/icons?i=vercel" />
+  </a>
+</p>
+
+---
+
+![](https://komarev.com/ghpvc/?username=TU_USUARIO&style=for-the-badge&color=0e75b6)
